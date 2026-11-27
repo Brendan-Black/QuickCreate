@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:function",
+  "function": "quickcreate:commands_installed",
+  "environment": "minecraft:default",
+  "structure": "minecraft:empty",
+  "max_ticks": 5
+}

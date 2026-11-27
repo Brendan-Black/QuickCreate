@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:function",
+  "function": "quickcreate:crowd_count",
+  "environment": "minecraft:default",
+  "structure": "minecraft:empty",
+  "max_ticks": 5
+}
