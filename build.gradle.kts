@@ -26,7 +26,7 @@ dependencies {
     compileOnly("com.github.Brendan-Black.Graft:api:v0.1.2")
     graft("com.github.Brendan-Black.Graft:loader:v0.1.2")
     testImplementation("com.github.Brendan-Black.Graft:api:v0.1.2")
-    errorprone("com.google.errorprone:error_prone_core:2.52.0")
+    errorprone("com.google.errorprone:error_prone_core:2.53.0")
     errorprone("com.uber.nullaway:nullaway:0.14.3")
 }
 sourceSets {
